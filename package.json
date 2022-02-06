@@ -1,0 +1,23 @@
+{
+  "name": "typescript-practise",
+  "version": "1.0.0",
+  "description": "Practise typescript features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tscript": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CauveryRaja/typescript-practise.git"
+  },
+  "author": "Cauvery Raja S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CauveryRaja/typescript-practise/issues"
+  },
+  "homepage": "https://github.com/CauveryRaja/typescript-practise#readme",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
